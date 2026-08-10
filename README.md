@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/itsskofficial/Agentic-AI">
+  <a href="https://github.com/itsskofficial/Vibe">
     <!-- You can replace this with a link to your project logo or a screenshot -->
     <img src="./src/public/logo.svg" alt="Logo" width="120">
   </a>
@@ -11,13 +11,13 @@
     A full-stack AI application builder that generates complete, deployable Next.js projects from a single prompt.
     <br/>
     <br/>
-    <a href="https://github.com/itsskofficial/Agentic-AI/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/itsskofficial/Agentic-AI/issues">Request Feature</a>
+    <a href="https://github.com/itsskofficial/Vibe/issues">Report Bug</a>
+    Â·
+    <a href="https://github.com/itsskofficial/Vibe/issues">Request Feature</a>
   </p>
 </p>
 
-![License](https://img.shields.io/github/license/itsskofficial/Agentic-AI)
+![License](https://img.shields.io/github/license/itsskofficial/Vibe)
 
 ## Table Of Contents
 
